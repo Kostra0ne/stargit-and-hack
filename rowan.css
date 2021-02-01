@@ -6,7 +6,7 @@ body {
     width: 98%;
     margin: 5px;
     border: 5px black solid;
-    background-color: cadetblue;
+    background-color: rgb(129, 142, 156);
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -22,6 +22,11 @@ h1 {
 
 h2 {
     font-size: 30px;
+    margin: 0;
+}
+
+h3 {
+    font-size: 35px;
     margin: 0;
 }
 
@@ -44,6 +49,8 @@ h2 {
     width: 550px;
     height: 550px;
     margin: 20px;
+    padding: 8px;
+    background: black;
 
 }
 
@@ -51,8 +58,32 @@ h2 {
     border: 2.5px solid black;
     width: 250px;
     height: 250px;
-    margin: 10px;
+    margin: 8px;
     padding: 0;
-    text-align: center;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    color: black;
+    
 
+}
+
+.music {
+    background-image: url(photos/Rowan/Music\ sq.jpg) ;
+    background-size: 250px;
+}
+
+.food {
+    background-image: url(photos/Rowan/Food\ 2\ sq.jpg) ;
+    background-size: 250px;
+}
+
+.travel {
+    background-image: url(photos/Rowan/Travel\ sq.jpg) ;
+    background-size: 250px;
+}
+
+.sport {
+    background-image: url(photos/Rowan/sport\ sq.jpg) ;
+    background-size: 250px;
 }
