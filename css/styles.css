@@ -1,88 +1,97 @@
 body {
-
 }
 
 h1 {
-    font-size: 30px;
-    font-weight: 800px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 800px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-transform: uppercase;
 }
 
 .message {
-    font-size: 35px;
-    font-weight: 600;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-transform: uppercase;
-    padding: 30px;
-    color: #f3b300;
-
+  font-size: 35px;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-transform: uppercase;
+  padding: 30px;
+  color: #f3b300;
 }
 
 p {
-    font-size: 30px;
-    font-weight: 600;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 li {
-    font-size: 30px;
-    font-weight: 600;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    padding: 20px 300px;
-    color: white;
-    background-color: black; 
-    margin: 0 15% 0 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 20px 300px;
+  color: white;
+  background-color: black;
+  margin: 0 15% 0 15%;
+  border: solid 30px #f3b300;
 }
 
-
 .julie {
-
 }
 
 .matthieu {
-
 }
 
 .names-box {
-    display: flex;
-    flex-direction: column;
-    border: solid black;
+  display: flex;
+  flex-direction: column;
+  border: solid black;
 }
 
 .pictures-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .lightning {
-    height: 500px;
-    position: absolute;
+  height: 500px;
+  position: absolute;
 }
 .pictures-size {
-    width: 500px;
-    height: 500px
+  width: 500px;
+  height: 500px;
 }
 
 .photopet {
-    margin: 10px  ;
+  margin: 10px;
 }
 
 .text {
-    display: flex;
-    align-self: center;
-    width: 100%;
-    
+  display: flex;
+  align-self: center;
+  width: 100%;
 }
 
 li {
-    list-style: none;
+  list-style: none;
+}
+
+.yellow {
+    color: #f3b300;
+}
+
+.link {
+    color: white;
+    font-size: 30px;
+  font-weight: 800px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 10px 0 20px 0; 
+  
+  
 }
