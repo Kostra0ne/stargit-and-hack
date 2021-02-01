@@ -5,3 +5,13 @@ body {
 .name {
     color: red;
 }
+
+.anna-photo {
+    width:300px;
+    height: 500px;
+}
+
+.adrien-photo {
+    width: 600px;
+    height: 400px;
+}
