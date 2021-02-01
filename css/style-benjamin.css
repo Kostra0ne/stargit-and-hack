@@ -28,54 +28,20 @@ nav > a:visited {
     color:black;
 }
 
-
 h1 {
     text-align: center;
     font-size: 4em;
+    margin-bottom: 50px;
 }
 
-.photo {
-    display: flex;
-    justify-content: center;
-}
-
-.photo > img {
-    height: 30vw;
-    margin: 20px;
-}
-
-article {
-    text-align: center;
-    width: 60vw;
-    font-size: 1.3em;
-}
-
-#presentation {
-    padding-top: 20px;
-    font-style: italic;
-}
-
-#why {
-    margin-top: 30px;
-    width: 60vw;
-    box-sizing: border-box;
-    font-weight: bold;
-}
-
-#why > div {
+.hobby-photo {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 100%;
-    box-sizing: border-box;
-    font-weight: normal;
+    width: 80vw;
 }
 
-#why > div > div {
-    width: 45%;
-    border: 1px solid #9370DB;
-    margin: 15px;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 10px 5px 5px #9370DB;
+.hobby-photo > img {
+    height: 30vw;
+    margin: 20px;
 }
