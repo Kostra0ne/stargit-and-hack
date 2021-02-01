@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+.names {
+    list-style-type: none;
+    font-size: 80px;
+    color: cyan;
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    margin-left: 300px;
+} 
+
+.slogan {
+    
+}
+
