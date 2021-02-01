@@ -21,7 +21,13 @@ nav {
 
 nav > a {
     padding: 20px;
+    text-decoration: none;
 }
+
+nav > a:visited {
+    color:black;
+}
+
 
 h1 {
     text-align: center;
@@ -59,6 +65,7 @@ article {
 #why > div {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     width: 100%;
     box-sizing: border-box;
     font-weight: normal;

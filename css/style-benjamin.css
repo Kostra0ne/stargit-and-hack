@@ -21,6 +21,11 @@ nav {
 
 nav > a {
     padding: 20px;
+    text-decoration: none;
+}
+
+nav > a:visited {
+    color:black;
 }
 
 h1 {
