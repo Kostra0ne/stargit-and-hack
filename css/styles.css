@@ -33,12 +33,33 @@ nav {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-left: 100px;
-    margin-right: 100px;
-
 }
 
-.photo > img {
+.photo {
+    width: 300px;
+}
 
-    width: 500px;
+div > img {
+    width:70%;
+}
+
+article {
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+h2, .liste {
+    max-width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.article {
+    display: flex;
+    justify-content: center;
+}
+
+hr {    
+    max-width: 50%;
 }
