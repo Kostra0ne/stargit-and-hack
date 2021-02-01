@@ -1,0 +1,18 @@
+body {
+    background: rgba(147, 147, 241, 0.589);
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 55px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+div > img {
+    padding: 10px;
+}
