@@ -14,6 +14,7 @@ body{
 }
 p{
     color: white;
+    text-align: center;
 }
 h2{
     color: white;
@@ -34,8 +35,11 @@ ul {
     width: 100%;
     height: 70%;
     float: left;
+    margin: 10 auto;
+    padding-left: 40%;
+    padding-top: 10%;
 }
 hr{
     align-items: center;
-    margin: 20px;
+    margin: 10px;
 }
