@@ -1,15 +1,19 @@
+
 body {
-  margin: 0;
+  margin: 20px;
   padding: 0;
+  border: 1px solid black;
+  
 }
 .name {
   display: flex;
   justify-content: center;
+  border: 1px solid black;
+
 }
 .name h3 {
   text-align: center;
   margin: 10px;
-  display: inline-block;
 }
 h1 {
   text-align: center;
