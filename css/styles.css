@@ -1,7 +1,8 @@
 ul { 
     text-align: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     display: flex;
+
 }
 .quotes { 
     text-align: center;
@@ -22,9 +23,16 @@ ul {
     display: flex;
     justify-content: center ;
     align-items: center;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 
-h2 { color:salmon
+h2 { 
+    color:salmon;
+}
+
+.we-came {
+    margin-left: 200px;
 }
 
 ol { 
