@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Maven Pro";
+}
+
+body {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    text-align: center;
+    margin: 50px;
+}
+
+nav > a {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+    margin-bottom: 50px;
+}
+
+.hobby-photo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80vw;
+}
+
+.hobby-photo > img {
+    height: 30vw;
+    margin: 20px;
+}
