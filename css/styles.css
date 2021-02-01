@@ -1,0 +1,55 @@
+body{
+    border: 5px solid black;
+    background: lightgrey;
+    width: 1500px;
+    margin: auto;
+
+}
+div.names{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#nos-images{
+    display: flex;
+    justify-content: center;
+}
+
+span{
+    margin: 50px 20px;
+    color: blue;
+    font-size: 2em;
+}
+.slogan{
+    font-size: 3em;
+    text-align: center;
+}
+
+.images{
+    width: 300px;
+    margin: 20px;
+}
+p{
+    width: 70%;
+    margin: 20px auto;
+    font-size: 1.5em;
+
+}
+
+#motivations {
+    width: 70%;
+    margin: 20px auto 70px auto;
+}
+
+hr{
+    width: 70%;
+}
+
+#motivations h2{
+    font-size: 3em;
+}
+#motivations li {
+    font-size: 2em;
+}
