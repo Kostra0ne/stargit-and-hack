@@ -8,12 +8,12 @@ body{
     background-color: rgb(27, 27, 27);
     display: flex;
     justify-content: center;
-
+    border: 10px solid #f3b300;
 }
 
 .main-container {
-    height: 100vh;
-    /* background-color: blanchedalmond; */
+    height: 91vh;
+    
     margin: 40px 40px 0 40px;
     min-width: 700px;
 }
@@ -65,15 +65,15 @@ p, ul {
 .hobbies-container{
     width: 100%;
     height: 300px;
-    background-color: rgb(85, 85, 85);
+    background-color: #f3b300;
     display: flex;
     flex-direction: column;
     align-items: center;
     box-shadow: 8px 8px 2px 1px black;
 } 
 
-.hobbies ul {
-    color: white;
+/* .hobbies ul {
+    color: rgb(85, 85, 85);;
     list-style: none;
     padding-left: 0;
 }
@@ -81,6 +81,55 @@ p, ul {
 .hobbies p {
     margin-top: 40px;
     margin-bottom: 50px;
+    /* color: rgb(85, 85, 85); 
+} */
+
+.hobbies-matthieu ul {
+    list-style: none;
+    padding-left: 0;
+    color: rgb(85, 85, 85);
+}   
+
+.hobbies-matthieu p {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(85, 85, 85);
+}
+
+.hobbies-julie ul {
+    list-style: none;
+    padding-left: 0;
+}  
+
+.hobbies-julie p {
+    margin-top: 40px;
+    margin-bottom: 50px;
+} 
+
+
+
+
+/* FIRST WIDGET */
+
+.welcome-container{
+    width: 100%;
+    height: 300px;
+    background-color: #f3b300;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 8px 8px 2px 1px black;
+}
+
+.welcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.welcome p {
+    color: rgb(85, 85, 85);
 }
 
 .hide {
