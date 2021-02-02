@@ -6,6 +6,7 @@ h1 {
     font-style: italic;
     text-align: center;
     padding-top: 50px;
+    color:rgb(16, 105, 165);
 }
 
 .images {
@@ -20,17 +21,23 @@ img.yuka {
     margin-right: 50px;
 }
 
-p {
+.lorem {
     position: relative;
     text-align: center;
     border-top: 2px solid;
     border-bottom: 2px solid;
     font-size: 22px;
+    margin-right: 200px;
+    margin-left: 200px;
+    color: rgb(66, 75, 75);
+
+    
 }
 
-.list {
+.block-3 {
     text-align: center;
     list-style: inside;
     font-size: large;
 }
+
 
