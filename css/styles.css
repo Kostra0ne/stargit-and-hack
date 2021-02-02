@@ -1,9 +1,10 @@
 body{
-    border: 5px solid black;
-    background: lightgrey;
+    border: 7px solid grey;
+    background:#D1DAF0;
     width: 1500px;
     margin: auto;
     padding: 15px 0 30px;
+    
 
 }
 div.names{
