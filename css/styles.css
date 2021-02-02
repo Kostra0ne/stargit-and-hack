@@ -1,0 +1,66 @@
+*{
+    margin: 10px 10px;
+}
+
+body {
+    font-family: system-ui;
+}
+
+.anna-photo {
+    width: 440px;
+    height: 350px;
+}
+
+.adrien-photo {
+    width: 440px;
+    height: 350px;
+}
+
+.name {
+    color: #0AA4D4;
+    margin: 20px 100px;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+}
+
+.names {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#first {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.photo img {
+    margin: 5px 20px;
+    box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+
+article {
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+    margin: 20px;
+}
+
+p{
+    margin: 15px 0px;
+    font-size: 20px;
+}
+
+h2{
+    margin: 30px 20px;
+    font-size: 30px;
+}
+
+ul{
+    font-size: 25px;
+}
