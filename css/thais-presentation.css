@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700");
+
+
+body{
+    background: rgb(145, 200, 255);
+    font-family: Roboto;
+    
+}
+h2{
+    color: white;
+    text-align: center;
+    font-weight :bold;
+    font-size: 3em;
+}
+div {
+    margin: 50px;
+    font-size: 1.5em;
+}

@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700");
+
+body{
+    border: 7px solid grey;
+    background:#D1DAF0;
+    width: 1500px;
+    margin: auto;
+    padding: 15px 0 30px;
+    
+
+    font-family: Roboto;
+}
+div.names{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#nos-images{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    margin: 50px 20px;
+    color: blue;
+    font-size: 2em;
+    text-decoration: none;
+}
+.slogan{
+    font-size: 3em;
+    text-align: center;
+}
+
+.images{
+    width: 300px;
+    margin: 20px;
+}
+p{
+    width: 70%;
+    margin: 20px auto;
+    font-size: 1.5em;
+
+}
+
+#motivations {
+    width: 70%;
+    margin: 20px auto 70px auto;
+}
+
+hr{
+    width: 70%;
+}
+
+#motivations h2{
+    font-size: 3em;
+}
+#motivations li {
+    font-size: 2em;
+}
