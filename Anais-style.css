@@ -1,0 +1,35 @@
+body{
+    font-family:nunito;
+    background-color:rgb(253, 251, 251)
+}
+
+h1 {
+    font-weight:bold;
+    border-bottom:1px solid darkgray;
+    padding:8px;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.img-structure {
+    width:200px;
+    height:250px;
+}
+
+.section-style{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.section-style > div {
+    text-align:center;
+    border: 1px solid lightgray;
+    padding:10px;
+    box-shadow:8px 8px 3px rgba(119, 45, 50, 0.123);;
+}
