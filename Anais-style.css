@@ -11,12 +11,13 @@ h1 {
 }
 
 h2 {
-
+    text-align: center;
 
 }
 
 .img-structure {
     width:200px;
+    height:250px;
 }
 
 .section-style{
