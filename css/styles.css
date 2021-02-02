@@ -4,14 +4,11 @@ div {
     color: rgb(114, 181, 239 );
     display: flex;
     justify-content: center;   
-    justify-content: 
-    padding-top: px;
     font-size: 1em;
-
 }
+
 span {
     padding: 0 15px;
-
 }
 
 h1{
@@ -23,19 +20,13 @@ h1{
     line-height: 50px;
     color: rgb(59, 53, 48);
     font-weight: 300;
-    
-
 }
 
 img{
-
     width: 300px;
     height: 400px;
     padding-left: 10px;
     margin-bottom: 10px;
-    
-    
-        
 }
 
 body{
@@ -52,7 +43,6 @@ p {
     border-top: 1px solid black;
     font-size: medium;
     color:rgb(59, 53, 48) ;
-  
     border-bottom: 1px  solid black;
     margin-top: 0.5em;
     padding-top: 20px;
@@ -65,7 +55,6 @@ p {
     text-align: left;
     color: rgb(59, 53, 48);
     font-weight: 200;
-
 }
 
 h2 {
