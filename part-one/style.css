@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+body {
+    background-color: beige;
+}
+
+.names {
+    padding-top: 1em;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: 45px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#text div {
+    font-size: 20px;
+    padding-top: 40px;
+    text-align: center;
+}
+.objectives li{
+    font-size: larger;
+    padding-top: 10px;
+}
+=======
+p {
+    color: red;
+
+}
+
+>>>>>>> 8ac482586acf7e25f243768dce777eabb2d1558e
