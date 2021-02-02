@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: rgb(235, 230, 230);
+}
+
+h1 {
+    color: rgb(127, 129, 20);
+    font-size: 70px;
+}
+
+.juan-photo {
+    width: 200px;
+}
+
+.country    {
+    width: 400px;
+    text-align: center;
+    margin-left: 400px;
+}
+.hobbies {
+   width: 400px;
+   text-align: center;
+   margin-left: 400px;
+}
+.from {
+    color: rgb(0, 102, 255);
+    font-size: 40px;
+}
+.my-hobbies {
+    color: rgb(214, 71, 71);
+    font-size: 40px;
+}
