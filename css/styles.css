@@ -39,7 +39,7 @@ body{
 }
 
 p {
-    width: 55%;
+    width: 600px;
     border-top: 1px solid black;
     font-size: medium;
     color:rgb(59, 53, 48) ;
@@ -66,4 +66,7 @@ li {
     font-size: 1em;
     margin-bottom: 20px;
     font-weight: 500;
+}
+ul{
+    padding-bottom: 50px;
 }
