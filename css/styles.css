@@ -39,5 +39,10 @@ img.yuka {
     list-style: inside;
     font-size: large;
 }
+.list-goals {
+    text-align: left;
+    max-width: 250px;
+    margin:0 auto;
+}
 
 
