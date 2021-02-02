@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+* {
+    font-family:"inter", Arial;
+    background-color: black;
+    color: yellow;
+}
+
+body {
+    margin: 100px;
+}
+
+.hobbies {
+    display: flex;
+    justify-content:space-around;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px 0;
+}

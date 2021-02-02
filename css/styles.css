@@ -48,14 +48,6 @@ img.portrait {
     color: grey;
 }
 
-h2 {
+.reasons h2 {
     font-size: 1.33em;
-    color: grey;
-}
-
-img.hobbies {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    margin: 20px 0;
 }
