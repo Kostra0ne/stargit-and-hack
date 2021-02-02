@@ -6,7 +6,6 @@ html, body {
 .names {
     list-style-type: none;
     font-size: 50px;
-    color: cyan;
     display: flex;
     flex-wrap: wrap;
 	justify-content: space-around;
@@ -41,5 +40,20 @@ font-size: large;
  justify-content: center;
 }
 
+.goals {
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+    margin-left: 600px;
+    font-size: x-large;
+    
+}
 
+h2 {
+    margin-left: 150px;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    margin-right: 180px;
+}
 
