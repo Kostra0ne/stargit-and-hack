@@ -12,3 +12,20 @@ h1 {
     font-weight: bold;
     font-size: 40pt;
 }
+
+img {
+    max-width: 70%;
+    text-align: center;
+}
+
+th:hover {
+    color: darkred;
+}
+
+td, tr, th {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
