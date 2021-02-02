@@ -5,17 +5,41 @@ html, body {
 
 .names {
     list-style-type: none;
-    font-size: 80px;
+    font-size: 50px;
     color: cyan;
     display: flex;
     flex-wrap: wrap;
 	justify-content: space-around;
     align-items: center;
     width: 50%;
-    margin-left: 300px;
+    margin-left: 340px;
 } 
 
 .slogan {
-    
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.photos {
+    display:flex;
+    justify-content: space-around;
+}
+
+.paul {
+    width: 600px; 
+}
+
+.antoine {
+    width: 600px;
+}
+
+.lorem {
+font-size: large;
+ display: flex;
+ justify-content: center;
+}
+
+
 
