@@ -1,0 +1,31 @@
+body {
+  background-color: rgba(255, 255, 128, 0.5);
+}
+h1,
+h2 {
+  text-align: center;
+}
+h1 {
+  border: 3px solid lightcoral;
+  border-radius: 20px;
+}
+h2 {
+  text-decoration: underline gray dotted;
+}
+.hobbies-box {
+  display: flex;
+  justify-content: space-between;
+}
+.hobbies-box ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.hobbies-box li {
+  margin: 20px;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.hobbies-box img {
+  height: 200px;
+  margin: 30px;
+}

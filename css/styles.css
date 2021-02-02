@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+}
+
+.people-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.alexis-image {
+    width : 300px;
+    height: auto;
+    margin-right: 50px;
+}    
+
+.magali-image {
+    width : 300px;
+    height: auto;
+    margin-left: 50px;
+} 
+
+header {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: green wavy underline;
+}
+
+ul {
+    font-size: x-large;
+}

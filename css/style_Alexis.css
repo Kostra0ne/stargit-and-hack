@@ -1,0 +1,7 @@
+.Img-li {
+    height: 200px;
+    width: auto;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
