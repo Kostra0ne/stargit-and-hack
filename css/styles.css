@@ -15,10 +15,18 @@ ul {
 
 .imagestyle {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    padding: 5px;
+    padding: 5px 200px 0px 200px;
 }
+
+.pig {
+    border: 2px solid black;
+}
+
+.wolf {border: 2px solid black;
+}
+
 .text {
     display: flex;
     justify-content: center ;
@@ -36,7 +44,7 @@ h2 {
 }
 
 ol { 
-    list-style: square;
+    list-style: no;
 }
 
 .design1  { 
