@@ -1,0 +1,56 @@
+.my-name {
+    text-align: left;
+    text-decoration: overline;
+    color: rgb(138, 149, 252);
+    font-size: 50px;
+    max-width: 50%;
+}
+
+.my-job {
+    text-align: left;
+    font-size: 30px;
+    color: rgb(138, 149, 252);
+    max-width: 50%;
+}
+
+body {
+    height: 100%;
+    background: linear-gradient(90deg, #ffffff 50%, rgb(138, 149, 252)50%);
+    background-color: rgb(255, 255, 255);
+}
+
+.about-me {
+    text-align: right;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding-right: 15px;
+}
+
+.about-me-details {
+    text-align: right;
+    color: rgb(255, 255, 255);
+    width: 50%;
+    float: right;
+    padding-right: 0px;
+}
+
+.my-hobbies {
+    text-align: right;
+    padding-right: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.list-of-hobbies {
+    color: rgb(255, 255, 255);
+    float: right;
+    padding-right: 15px;
+    font-size: 18px;
+}
+
+quote {
+    text-align: left;
+    font-size: 20px;
+    color: rgb(138, 149, 252);
+    max-width: 50%;
+}

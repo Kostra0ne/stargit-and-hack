@@ -1,0 +1,45 @@
+.names{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px; 
+    color: rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    background: rgb(138, 149, 252);
+}
+p{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+
+ul {
+    color: white;
+}
+.container {
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: 70%;
+    float: left;
+    margin: 10 auto;
+    padding-left: 40%;
+    padding-top: 10%;
+}
+hr{
+    align-items: center;
+    margin: 10px;
+}
