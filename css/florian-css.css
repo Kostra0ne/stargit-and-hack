@@ -1,6 +1,7 @@
 body {
     background: rgba(147, 147, 241, 0.589);
     text-align: center;
+    color: white;
 }
 
 img {
@@ -15,4 +16,13 @@ div {
 
 div > img {
     padding: 10px;
+    border-radius: 25%;
+}
+
+#give {
+    text-shadow: #5c068d 8px 10px 2px;
+}
+
+.never {
+    text-shadow: #c740e2e3 8px -10px 2px
 }
