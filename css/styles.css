@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
-body {
+* {
     font-family:"inter", Arial ;
-    margin: 0 100px; <--
+}
+
+body {
+    margin: 100px;
 }
 
 nav ul {
@@ -18,7 +21,6 @@ nav a {
 
 h1 {
     text-align: center;
-    font-style: italic;
     color: grey;
     font-size: 50px;
 }
@@ -29,12 +31,14 @@ h1 {
     height: 300px;
 }
 
-img {
-    /*Comment cropper ?*/
+img.portrait {
+    width: 200px;
+    object-fit: cover;
+    box-shadow: 3px 3px 5px 6px #ccc;
 }
 
 .text {
-    margin:10px 0;
+    margin:20px 0;
     font-size: 0.75em;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
@@ -44,6 +48,14 @@ img {
     color: grey;
 }
 
-.reasons h2 {
+h2 {
     font-size: 1.33em;
+    color: grey;
+}
+
+img.hobbies {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px 0;
 }
