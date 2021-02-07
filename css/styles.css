@@ -1,0 +1,59 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+.names {
+    list-style-type: none;
+    font-size: 50px;
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    margin-left: 340px;
+} 
+
+.slogan {
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photos {
+    display:flex;
+    justify-content: space-around;
+}
+
+.paul {
+    width: 600px; 
+}
+
+.antoine {
+    width: 600px;
+}
+
+.lorem {
+font-size: large;
+ display: flex;
+ justify-content: center;
+}
+
+.goals {
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+    margin-left: 600px;
+    font-size: x-large;
+    
+}
+
+h2 {
+    margin-left: 150px;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    margin-right: 180px;
+}
+
