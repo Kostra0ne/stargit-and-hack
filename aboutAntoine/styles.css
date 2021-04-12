@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background-image: url("/aboutAntoine/media/images/perma.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 18px;
+}
+
+.presentation .box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+.imagesBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imagesBox img {
+    width: 400px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#climateChange {
+    width: 450px;
+}
+
+.convictions {
+    width: 600px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(41, 87, 41);
+    padding: 10px 200px;
+    margin-top: 30px;
+    border-radius: 80px;
+}
+
+.hobbies {
+    width: 600px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(41, 87, 41);
+    padding: 10px 200px;
+    margin-top: 30px;
+    border-radius: 80px;
+}
