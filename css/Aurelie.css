@@ -77,4 +77,5 @@ a:hover {
     background: rgb(117, 93, 206);
     padding: 7px;
     font-size: larger;
+    border-radius: 20%;
 }
