@@ -1,0 +1,35 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: darkblue;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: baseline;
+}
+
+
+h1 {
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: baseline;
+    padding-bottom: 50px;
+}
+
