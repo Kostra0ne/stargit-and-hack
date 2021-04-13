@@ -7,16 +7,17 @@
 }
 
 body {
-    background-image: url(/images/unnamed.jpg);
+    /* background-image: url(/images/unnamed.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
-
+    background-size: 100%; */
+    background: linear-gradient(darkblue, black);
+    color: white;
 }
 
 .links {
     display: flex;
     justify-content: space-around;
-    
+    text-align: center;
 }
 
 .about {
@@ -27,14 +28,22 @@ body {
     text-decoration: none;
     color: lavenderblush;
     font-size: xx-large;
-    padding-right: 300px;
-    
+    padding: 10px 50px;
+    margin-right: 250px;
+}
+
+a:hover {
+    cursor: pointer;
+    color: grey;
+    background: black;
+    font-size: xx-large;
+    border-radius: 20%;
 }
 
 h1 {
     text-align: center;
     font-size: 50px;
-    margin-top: 100px;
+    margin-top: 50px;
     font-weight: bolder;
 }
 
@@ -59,3 +68,28 @@ footer {
     font-size: x-large;
     font-weight: bold;
 }
+
+.photo-profil {
+    width: 20%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin-top: 50px;
+}
+
+img {
+    border: 3px solid white;
+}
+
