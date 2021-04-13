@@ -8,6 +8,8 @@
 body {
     background-image: url(../images/6885578_preview.png);
     background-color: rgb(205, 192, 236);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
