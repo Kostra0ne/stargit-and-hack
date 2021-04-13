@@ -1,0 +1,19 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    color: red;
+    font-size: 45px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 35px;
+    color: purple;
+}
+
+.Hobbies {
+    color: rebeccapurple;
+    text-decoration: underline;
+}
