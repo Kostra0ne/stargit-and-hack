@@ -1,0 +1,12 @@
+.name {
+    color:aqua;
+    text-align: center;
+}
+
+.fourth {
+    width: 800px;
+    height: 130px;
+    background-color:red;
+    text-align: center;
+    align-content: center;
+}
