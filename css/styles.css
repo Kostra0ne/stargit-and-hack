@@ -62,3 +62,40 @@ body {
   align-items: center;
   flex-direction: column;
 }
+
+.surname {
+    text-align: center;
+    color: palevioletred;
+    font-size: 50px;
+}
+
+.marie-photo {
+    height: 500px;
+    width: 400px;
+}
+
+.description-marie section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.description-marie h1 {
+    font-size: 26px;
+    color: lightpink;
+    text-align: center;
+    font-style: italic;
+    text-decoration : underline dotted lightpink;
+}
+
+.description-marie heading {
+    font-size: 40px;
+    color: lightpink;
+    text-align: center;
+}
+
+.description-marie {
+    background-color:beige;
+}
