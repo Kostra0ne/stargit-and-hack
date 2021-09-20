@@ -5,16 +5,25 @@
 }
 
 .names {
+  margin: 30px 0px;
   text-align: center;
-  margin: 0px 50px;
-  color: blue;
 }
 
-h1.slogan {
+.names span {
+  margin: 0px 30px;
+  color:cornflowerblue;
+}
+
+#slogan {
+  padding: 20px 0px;
+}
+
+#slogan h1{
   text-align: center;
-  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
   font-size: 3rem;
+  color: rgba(0, 0, 0, 0.6);
 }
 
 p {
