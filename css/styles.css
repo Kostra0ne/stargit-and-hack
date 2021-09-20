@@ -43,5 +43,15 @@
 }
 
 #list {
-  width: 0px 100px;
+  margin: 0% 15%;
+}
+
+#list h2 {
+  padding: 30px 0px;
+}
+
+#list ul li {
+  list-style: inside;
+  list-style-type: '\002D';
+  margin: 5px 5%;
 }
