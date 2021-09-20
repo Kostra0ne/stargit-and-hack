@@ -3,6 +3,7 @@ body {
     position: absolute;
     transform: translateX(50%);
     right: 50%;
+    font-family: Arial;
 }
 
 
@@ -53,4 +54,11 @@ body {
     justify-content: center;
     text-align: center;
     font-family: Arial;
+}
+
+
+#we-are-here{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
