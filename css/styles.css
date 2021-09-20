@@ -26,8 +26,22 @@
   color: rgba(0, 0, 0, 0.6);
 }
 
-p {
+#pictures {
+  text-align: center;
+}
+
+#citation {
+  text-align: center;
+  margin: 10px 0px;
+}
+
+#citation p {
+  display: inline-block;
   padding: 10px 0px;
   border-top: 1px solid;
   border-bottom: 1px solid;
+}
+
+#list {
+  width: 0px 100px;
 }
