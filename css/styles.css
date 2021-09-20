@@ -1,3 +1,12 @@
+body {
+    max-width: 900px;
+    position: absolute;
+    transform: translateX(50%);
+    right: 50%;
+}
+
+
+
 .first-section {
     display: flex;
     justify-content: center;
@@ -35,4 +44,13 @@
     display: flex;
     justify-content: center;
 
+}
+
+.fourth-section p{
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial;
 }
