@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    background-color: rgb(238, 197, 172);
+}
+
+.container{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+#david{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(161, 116, 86);
+}
+.panel {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+    border-radius: 50px;
+    color: rgb(161, 116, 86);
+    flex:  0.5;
+    margin: 10px;
+    position: relative;
+}
+
+.panel h3 {
+    font-size: 25px;
+    position: absolute;
+    left: 15px;
+}
+
+.song{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(161, 116, 86);
+}
