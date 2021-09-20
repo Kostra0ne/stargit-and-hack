@@ -18,3 +18,21 @@
     font-family: Arial;
     font-weight: lighter;
 }
+
+.photo-david {
+    height: 500px;
+    width: 400px;
+    padding-right: 20px;
+}
+
+.photo-marie{
+    height: 500px;
+    width: 400px;
+    padding-left: 20px;
+}
+
+#photos{
+    display: flex;
+    justify-content: center;
+
+}
