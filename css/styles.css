@@ -4,6 +4,7 @@ body {
     transform: translateX(50%);
     right: 50%;
     font-family: Arial;
+   background-color: lightgray;
 }
 
 
@@ -61,4 +62,16 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
+}
+
+#david{
+    
+        background: linear-gradient(blue, white);
+      
+}
+
+.david-photo{
+
+   width: 50%;
+
 }
