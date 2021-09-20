@@ -64,6 +64,7 @@ body {
   flex-direction: column;
 }
 
+<<<<<<< HEAD
 #david{
     
         background: linear-gradient(blue, white);
@@ -74,4 +75,41 @@ body {
 
    width: 50%;
 
+=======
+.surname {
+    text-align: center;
+    color: palevioletred;
+    font-size: 50px;
+}
+
+.marie-photo {
+    height: 500px;
+    width: 400px;
+}
+
+.description-marie section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.description-marie h1 {
+    font-size: 26px;
+    color: lightpink;
+    text-align: center;
+    font-style: italic;
+    text-decoration : underline dotted lightpink;
+}
+
+.description-marie heading {
+    font-size: 40px;
+    color: lightpink;
+    text-align: center;
+}
+
+.description-marie {
+    background-color:beige;
+>>>>>>> 6b599a952a3da05d65dc5ff977f75d8abd833aaf
 }
