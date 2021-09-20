@@ -36,3 +36,9 @@
     justify-content: center;
 
 }
+
+#we-are-here{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
