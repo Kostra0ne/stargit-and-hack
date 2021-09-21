@@ -1,0 +1,21 @@
+.name {
+    color:aqua;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.second {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    text-align: center;
+}
+.fourth {
+    width: 800px;
+    height: 130px;
+    background-color:fff;
+    text-align: center;
+    align-content: center;
+    border-top: 2px solid ;
+    border-bottom: 2px solid 
+}
+
