@@ -1,0 +1,51 @@
+body{
+    font-family: sans-serif;
+    background-color: whitesmoke;
+    margin: 0 100px
+}
+
+h3 {
+    text-align: center;
+    color: olivedrab;
+}
+
+h1{
+text-align: center;
+font-weight: bold;
+font-style: italic;
+color: tomato;
+}
+
+#img-nicolas{
+width: 25%;
+}
+
+#img-amine{
+width: 30%;
+}
+
+.imgs{
+    display: flex;
+    justify-content: center;
+}
+
+p{text-align: justify;
+
+}
+
+#lorem{
+    margin: 0 22.5%;
+}
+
+hr{
+    border-width: 2px;
+}
+
+ol{
+margin: 20px 0 10px 21%;
+line-height: 30px ;
+}
+
+h2{
+    margin-left: 22.5%;
+}
