@@ -28,3 +28,23 @@ width: 30%;
     display: flex;
     justify-content: center;
 }
+
+p{text-align: justify;
+
+}
+
+#lorem{
+    margin: 0 22.5%;
+}
+
+hr{
+    border-width: 2px;
+}
+
+ol{
+margin: 20px 0 10px 21%;
+}
+
+h2{
+    margin-left: 22.5%;
+}
