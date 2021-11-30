@@ -49,3 +49,9 @@ line-height: 30px ;
 h2{
     margin-left: 22.5%;
 }
+
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
